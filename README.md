@@ -11,6 +11,8 @@ Developed with
 - CSS
 - JavaScript
 
-Boostrap 5
-Font Awesome
-Sweet Alerts JS
+Styles
+
+- Boostrap 5
+- Font Awesome
+- Sweet Alerts JS
